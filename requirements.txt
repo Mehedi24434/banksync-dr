@@ -1,1 +1,3 @@
-the necessary libraries will be here
+playwright
+playwright-stealth
+python-dotenv
